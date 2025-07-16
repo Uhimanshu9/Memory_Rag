@@ -141,20 +141,6 @@ The `Memory` class can be configured through a dictionary passed to the `from_co
 
 These options can also be set as environment variables for a more flexible and secure configuration.
 
-## Contributing Guidelines
-
-We welcome contributions to this project! To contribute:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Implement your changes and write tests.
-4.  Submit a pull request with a clear description of your changes.
-
-Please follow the existing code style and conventions.
-
-## License Information
-
-This project does not currently have a specified license. All rights are reserved by the owner.
 
 ## Acknowledgments
 
